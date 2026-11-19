@@ -134,7 +134,7 @@ Y_NOT = A'
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 Output
 # OUTPUT
-<img width="1847" height="1020" alt="EXPT-2 NEW" src="https://github.com/user-attachments/assets/157cca89-f93b-466c-afd6-441b9eedbec0" />
+<img width="1887" height="1052" alt="Screenshot 2026-11-10 140003" src="https://github.com/user-attachments/assets/581e1818-a89e-452e-8df8-f672161c6468" />
 
 # Viva-Voce Questions
 
